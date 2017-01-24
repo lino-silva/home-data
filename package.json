@@ -1,0 +1,39 @@
+{
+  "name": "home-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.0",
+    "express-validator": "^3.1.2",
+    "html5shiv": "^3.7.3",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.8",
+    "morgan": "^1.7.0",
+    "mqtt": "^2.3.0",
+    "pmx": "^1.0.1",
+    "q": "^1.4.1",
+    "respond": "^0.9.0",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0",
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*"
+  }
+}
